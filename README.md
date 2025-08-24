@@ -33,7 +33,7 @@ If you're also learning SQL, feel free to use this repository as a resource! You
 
     PostgreSQL Official Website
 
-📝 Contributions
+# Contributions
 
 This is a personal learning project, so I won't be accepting outside contributions at this time. However, if you have any questions or suggestions, please feel free to open an issue!
 
