@@ -1,7 +1,8 @@
 # Exploring the Pagila Database: A SQL Query Journey
 
 This repository serves as a personal project to explore and master SQL queries using the well-known Pagila sample database. The Pagila database is a robust and comprehensive open-source database designed for learning and practicing PostgreSQL.
-🚀 Project Overview
+
+# Project Overview
 
 My goal with this repository is to document my journey from a SQL beginner to an advanced user. I'll be starting with the basics and progressively moving on to more complex queries.
 
