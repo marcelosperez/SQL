@@ -25,7 +25,7 @@ If you're also learning SQL, feel free to use this repository as a resource! You
 
     Explore the folders: Navigate through the basics, intermediate, and advanced directories.
 
-    Run the queries: Copy the SQL code and run it in your own PostgreSQL environment with the Pagila database installed.
+    Run the queries: Copy the SQL code and run it in your own PostgreSQL environment with the Pagila database installed or do it online using Oracle Live SQL.
 
 # Resources
 
