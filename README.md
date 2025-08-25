@@ -1,18 +1,17 @@
-# Exploring the Pagila Database: A SQL Query Journey
+# Exploring Databases: A SQL Query Journey
 
-This repository serves as a personal project to explore and master SQL queries using the well-known Pagila sample database. The Pagila database is a robust and comprehensive open-source database designed for learning and practicing PostgreSQL.
+#  Project Overview
 
-# Project Overview
+This repository documents my journey from a SQL beginner to an advanced user, with a focus on two major database systems: Oracle and PostgreSQL.
 
-My goal with this repository is to document my journey from a SQL beginner to an advanced user. I'll be starting with the basics and progressively moving on to more complex queries.
+The goal of this project is to progressively move from basic to more complex queries, showcasing my learning process and problem-solving approach.
 
-The queries are organized into folders based on their complexity:
+    **Oracle Queries**: These queries are developed and tested using the online Oracle Live SQL platform (livesql.oracle.com). The Oracle Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
 
-    basics/: Covering fundamental commands like SELECT, FROM, WHERE, ORDER BY, and LIMIT.
+    **PostgreSQL Queries**: These queries are primarily run on the well-known Pagila sample database. The PostgreSQL Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
 
-    intermediate/: Diving into more advanced topics such as JOINs, GROUP BY, HAVING, and subqueries.
+This repository serves as a personal log of my progress and a resource for anyone interested in learning SQL across different database environments.
 
-    advanced/: Tackling complex queries, window functions, common table expressions (CTEs), and more.
 
 # Pagila Database Schema
 
