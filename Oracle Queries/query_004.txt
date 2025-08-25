@@ -1,0 +1,15 @@
+-- Problem: Find all employees whose salary is less than the salary 
+-- of any employee with the job title 'Programmer'.
+-- Note: The ANY operator is used with a comparison operator and returns 
+-- TRUE if any of the values in the subquery result satisfy the condition
+SELECT first_name, last_name, salary
+FROM hr.employees
+WHERE  salary < ANY (
+    SELECT salary
+    FROM hr.employees
+    WHERE job_id = (
+           SELECT job_id
+          FROM hr.jobs
+         WHERE job_title = 'Programmer'
+       )
+  );

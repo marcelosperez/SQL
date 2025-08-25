@@ -1,0 +1,5 @@
+-- List all departments that have at least one employee.
+-- This exercise uses the EXISTS operator to check if a subquery returns any rows. 
+-- The outer query selects the department name from the departments table, 
+-- and the subquery checks if there is at least one employee in the 
+-- employees table with a matching department_id
