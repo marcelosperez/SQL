@@ -6,9 +6,9 @@ This repository documents my journey from a SQL beginner to an advanced user, wi
 
 The goal of this project is to progressively move from basic to more complex queries, showcasing my learning process and problem-solving approach.
 
-    **Oracle Queries**: These queries are developed and tested using the online Oracle Live SQL platform (livesql.oracle.com). The Oracle Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
+   **Oracle Queries**: These queries are developed and tested using the online Oracle Live SQL platform (livesql.oracle.com). The Oracle Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
 
-    **PostgreSQL Queries**: These queries are primarily run on the well-known Pagila sample database. The PostgreSQL Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
+   **PostgreSQL Queries**: These queries are primarily run on the well-known Pagila sample database. The PostgreSQL Queries folder contains the SQL script files and the corresponding CSV files with a subset of the query results.
 
 This repository serves as a personal log of my progress and a resource for anyone interested in learning SQL across different database environments.
 
