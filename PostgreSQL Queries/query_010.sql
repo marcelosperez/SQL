@@ -1,6 +1,6 @@
 -- Instructions: The video store is running an end-of-year inventory review 
 -- and wants to create a special catalog. The goal is to identify all 
--- films that were released during or before 2005. For this special 
+-- films that were released during or before 2007. For this special 
 -- catalog, the following information needs to be extracted from the database:
 -- The title of each film, presented in all lowercase for a clean, consistent look.
 -- The original price to rent the film.
