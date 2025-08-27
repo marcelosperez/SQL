@@ -1,4 +1,4 @@
--- Problem: Find all employees who earn more 
+-- Find all employees who earn more 
 -- than the average salary of their own department.
 -- Note: A correlated subquery is a subquery that depends on 
 -- the outer query for its values. It executes once for each 

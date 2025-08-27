@@ -1,4 +1,4 @@
--- Problem: Find all employees whose salary is less than the salary 
+-- Find all employees whose salary is less than the salary 
 -- of any employee with the job title 'Programmer'.
 -- Note: The ANY operator is used with a comparison operator and returns 
 -- TRUE if any of the values in the subquery result satisfy the condition

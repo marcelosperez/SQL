@@ -1,4 +1,4 @@
--- Problem: List the department name, location, and total 
+-- List the department name, location, and total 
 -- number of employees in that department. (INLINE VIEW)
 -- Note: An inline view is a subquery in the FROM clause that is treated 
 -- like a temporary table. This is useful for pre-aggregating data or simplifying complex joins

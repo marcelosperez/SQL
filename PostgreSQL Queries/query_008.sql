@@ -1,6 +1,4 @@
--- Objective: Write a SQL query to retrieve the first_name and last_name of customer and the amount paid
--- The query should join the payment and customer tables from the Pagila database schema. 
--- Additionally, it must adhere to the following rules:
+-- Query to retrieve the first_name and last_name of customer and the amount paid
 -- Only include payments from customers who are active in the database.
 -- Sort the entire list of payments by the amount, from the highest amount to the lowest.
 SELECT c.first_name, c.last_name, p.amount

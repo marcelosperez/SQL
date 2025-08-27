@@ -1,4 +1,4 @@
--- Problem: List the first name, last name, and salary of all employees 
+-- List the first name, last name, and salary of all employees 
 -- who have a job title of 'Sales Manager' or 'Shipping Clerk'
 SELECT first_name, last_name, salary
 FROM hr.employees

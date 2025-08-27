@@ -1,4 +1,4 @@
--- Problem: Find the names and salary of all employees who work 
+-- Find the names and salary of all employees who work 
 -- in the same department as the employee with the last name 'Grant'
 -- Note: The AND last_name ! = 'Grant'; clause is included to prevent 
 -- the employee 'Grant' from appearing in the final result set.
