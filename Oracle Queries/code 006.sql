@@ -1,3 +1,5 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- List the department name, location, and total 
 -- number of employees in that department. (INLINE VIEW)
 -- Note: An inline view is a subquery in the FROM clause that is treated 

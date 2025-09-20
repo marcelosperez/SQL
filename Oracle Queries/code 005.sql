@@ -1,3 +1,5 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- Find all employees who earn more 
 -- than the average salary of their own department.
 -- Note: A correlated subquery is a subquery that depends on 

@@ -1,3 +1,5 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- Find all employees whose salary is less than the salary 
 -- of any employee with the job title 'Programmer'.
 -- Note: The ANY operator is used with a comparison operator and returns 

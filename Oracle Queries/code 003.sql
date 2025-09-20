@@ -1,3 +1,5 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- List the first name, last name, and salary of all employees 
 -- who have a job title of 'Sales Manager' or 'Shipping Clerk'
 -- Note: This is a variation of the previous query

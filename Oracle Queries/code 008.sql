@@ -1,12 +1,13 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- List all departments that have at least one employee
 -- Use the EXISTS operator to check if a subquery returns any rows
 SELECT d.department_name
-FROM hr_departments d
+FROM hr.departments d
 WHERE EXISTS (
-    SELECT 1
-    FROM hr_employees e
-    WHERE e.department_id = d.department_id
-);
+  SELECT 1
+  FROM hr.employees e
+  WHERE e.department_id = d.department_id
 -- Tip:
 -- The outer query selects the department_name from hr_departments
 -- The subquery checks if there is at least one row in hr_employees 

@@ -1,3 +1,5 @@
+-- Source:
+-- https://livesql.oracle.com/next/
 -- Find all employees who do not have the job title 'Manager'.
 SELECT first_name, last_name, job_id
 FROM hr.employees
